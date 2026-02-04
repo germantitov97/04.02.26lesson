@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6531d13-5236-462a-bcdd-23b18f78e894" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/_primenum_.py" beforeDir="false" afterPath="$PROJECT_DIR$/_primenum_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_str02_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_str_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "germantitov97"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/germantitov97/04.02.26lesson.git",
@@ -39,6 +47,8 @@
     "Python._MatchAndCase_.executor": "Run",
     "Python._boolean_.executor": "Run",
     "Python._primenum_.executor": "Run",
+    "Python._str02_.executor": "Run",
+    "Python._str_.executor": "Run",
     "Python._timesleep_.executor": "Run",
     "Python.main.executor": "Run",
     "Python.mainn.executor": "Run",
@@ -70,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770226466598</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1770226758765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770226758765</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
