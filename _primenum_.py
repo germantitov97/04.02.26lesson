@@ -1,3 +1,4 @@
+# **Bonus: input number from user, is_prime should be True if the number is prime otherwise False
 number = int(input('Enter a number: '))
 is_prime = bool
 if number <= 1:
