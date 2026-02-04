@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6531d13-5236-462a-bcdd-23b18f78e894" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/_str03_.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_str02_.py" beforeDir="false" afterPath="$PROJECT_DIR$/_str02_.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
     "Python._boolean_.executor": "Run",
     "Python._primenum_.executor": "Run",
     "Python._str02_.executor": "Run",
+    "Python._str03_.executor": "Run",
     "Python._str_.executor": "Run",
     "Python._timesleep_.executor": "Run",
     "Python.main.executor": "Run",
@@ -96,11 +97,30 @@
       <option name="project" value="LOCAL" />
       <updated>1770230609030</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <option name="closed" value="true" />
+      <created>1770231213733</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770231213733</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_str03_.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
